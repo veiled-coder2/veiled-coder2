@@ -27,7 +27,7 @@
 | Project | Description | Contributors |
 | ------- | ----------- | ------------ |
 | 🍔 **Mealy** | A Restaurant Web Application providing a seamless food delivery experience. Built with React.js, Redux Toolkit, and Vanilla CSS for responsiveness. [Visit the live Mealy web app here](https://mealy4u.netlify.app/). | **[veiled-coder](https://github.com/veiled-coder)**, **[ChinonyeRuth](https://github.com/ChinonyeRuth)**, **[Afola-Ode](https://github.com/Afola-Ode)**, **[marthafelice](https://github.com/marthafelice)**, **[pamolowo](https://github.com/pamolowo)**, **[usiemeblessing](https://github.com/usiemeblessing)** |
-| 🏓 **Picklepals** | A platform connecting pickleball enthusiasts in Toronto for easy scheduling and community building. Built with React.js, Redux Toolkit, and Vanilla CSS. [Visit the live Picklepals web app here](https://picklepals.netlify.app/). | **[veiled-coder](https://github.com/veiled-coder2)** - FrontEnd Developer, **[Divash Gupta](https://github.com/Divxsh)** - BackEnd Developer, **[Eillen Calub](https://www.linkedin.com/in/eileen-calub/)** - UI/UX Designer, **[Swathi Rumale](https://www.linkedin.com/in/swathi-rumale-542174b6/)** - Product Manager |
+| 🏓 **Picklepals** | A platform connecting pickleball enthusiasts in Toronto for easy scheduling and community building. Built with React.js, Redux Toolkit, and Vanilla CSS. [Visit the live Picklepals web app here](https://picklepals.netlify.app/). | **[veiled-coder](https://github.com/veiled-coder2)** - FrontEnd Developer, **[Divash Gupta](https://github.com/Divxsh)** - BackEnd Developer, **[Eillen Calub](https://www.linkedin.com/in/eileen-calub/)** - UI/UX Designer,  **[Swathi Rumale](https://www.linkedin.com/in/swathi-rumale-542174b6/)** - Product Manager |
 
 
 
