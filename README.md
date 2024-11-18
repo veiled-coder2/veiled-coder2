@@ -1,11 +1,15 @@
 ## 👋 Hi there! I’m Veiled Coder 💻 👋
-✨ **Welcome to my GitHub profile!** 
 
-### 🔥 **About Me**  
+### 🔥 **About Me** ✨ 
 - 💼 **Professional Expertise**: Building scalable, high-performance web applications.  
 - 🛠️ Specializing in **React**, **Tailwind CSS**, **Typescript** and **modern JavaScript frameworks (NEXT JS)**.  
 - 🎯 Focused on creating **responsive**, intuitive and user-friendly interfaces.
+- 🌐 [GitHub Portfolio](https://github.com/veiled-coder2)  
+- ✉️ Reach me via email: **[abdulfattahrahmat@gmail.com](mailto:youremail@example.com)**  
+- 💼 LinkedIn: **[Your LinkedIn Profile](https://www.linkedin.com/in/rahmat-abdulfattah-2322531ab/)**  
+
 - 👯 I’m looking to collaborate on any frontend development project
+- 
 ### ✨ **My Skills**  
 - 🚀 Frontend Development: React, Next, Typescript, Tailwind CSS, HTML, CSS, JavaScript (ES6+).  
 - 🔗 API Integration & State Management **(REDUX Aand CONTEXT API)**.  
@@ -26,14 +30,12 @@
 - 💾 **Database Knowledge**:  
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 
-  ### ✨ **Featured Projects**
+### ✨ **Featured Projects**
 
 | Project | Description | Contributors |
 | ------- | ----------- | ------------ |
-| 🍔 **Mealy** | A Restaurant Web Application providing a seamless food delivery experience. Built with React.js, Redux Toolkit, and Vanilla CSS for responsiveness. [Visit the live Mealy web app here](#). | **veiled-coder**, **ChinonyeRuth**, **Afola-Ode**, **marthafelice**, **pamolowo**, **usiemeblessing** |
-| 🏓 **Picklepals** | A platform connecting pickleball enthusiasts in Toronto for easy scheduling and community building. Built with React.js, Redux Toolkit, and Vanilla CSS. [Visit the live Picklepals web app here](#). | **veiled-coder** - FrontEnd Developer, **Divash Gupta** - BackEnd Developer, **Eillen Calub** - UI/UX Designer, **Swathi Rumale** - Product Manager |
-
-
+| 🍔 **Mealy** | A Restaurant Web Application providing a seamless food delivery experience. Built with React.js, Redux Toolkit, and Vanilla CSS for responsiveness. [Visit the live Mealy web app here](https://www.mealywebsite.com). | **[veiled-coder](https://github.com/veiled-coder)**, **[ChinonyeRuth](https://github.com/ChinonyeRuth)**, **[Afola-Ode](https://github.com/Afola-Ode)**, **[marthafelice](https://github.com/marthafelice)**, **[pamolowo](https://github.com/pamolowo)**, **[usiemeblessing](https://github.com/usiemeblessing)** |
+| 🏓 **Picklepals** | A platform connecting pickleball enthusiasts in Toronto for easy scheduling and community building. Built with React.js, Redux Toolkit, and Vanilla CSS. [Visit the live Picklepals web app here](https://www.picklepalswebsite.com). | **[veiled-coder](https://github.com/veiled-coder2)** - FrontEnd Developer, **[Divash Gupta](https://github.com/Divxsh)** - BackEnd Developer, **[Eillen Calub](https://www.linkedin.com/in/eileen-calub/)** - UI/UX Designer, **[Swathi Rumale](https://www.linkedin.com/in/swathi-rumale-542174b6/)** - Product Manager |
 
 
 
