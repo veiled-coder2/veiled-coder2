@@ -2,7 +2,7 @@
 
 ### **About** 
 - 💼 **Professional Expertise**: Building scalable, high-performance web applications.  
-- 🛠️ Specializing in **React**, **Tailwind CSS**, **Typescript** and **modern JavaScript frameworks (NEXT JS)**.  
+- 🛠️ Specializing in **React**,**Jekyll**, **Tailwind CSS**, and **modern JavaScript frameworks (REACT JS)**.  
 - 🎯 Focused on creating **responsive**, intuitive and user-friendly interfaces.
 - 🌐 Github: **[GitHub Portfolio](https://github.com/veiled-coder2)**
 - 🖥️ Portfolio: **[Portfolio Website](https://veiled-coder.netlify.app/)**
