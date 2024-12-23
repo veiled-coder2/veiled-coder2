@@ -5,9 +5,9 @@
 - 🛠️ Specializing in **React**, **Jekyll**, **Tailwind CSS** , **Bootstrap**. 
 - 🎯 Focused on creating **responsive**, intuitive and user-friendly interfaces.
 - 🌐 Github: **[GitHub Portfolio](https://github.com/veiled-coder2)**
-- 🖥️ Portfolio: **[Portfolio Website](https://veiled-coder.netlify.app/)**
+- 🖥️ Portfolio: **[Portfolio Website](https://veiled-coder2.github.io/professional-portfolio-jekyll/)**
 - 💼 LinkedIn: **[Rahmat Abdulfattah](https://www.linkedin.com/in/rahmat-abdulfattah-2322531ab/)**  
-- ✉️ Reach me via email: **[abdulfattahrahmat@gmail.com](mailto:youremail@example.com)**  
+- ✉️ Reach me via email: **[abdulfattahrahmat@gmail.com](mailto:abdulfattahrahmat@gmail.com)**  
  
 
 ### **Skills**  
