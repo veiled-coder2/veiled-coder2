@@ -2,8 +2,8 @@
 
 ### **About**  
 - 🔐 **Security-Focused Cloud Developer** passionate about building and securing modern web applications.  
-- ☁️ Currently exploring **Cloud Application Security**, **DevSecOps**, and **API Security** across Oracle Cloud (OCI) and AWS.  
-- 💼  **Frontend Developer** with 2+ years of experience building scalable, responsive web applications using **React**, **Jekyll**, **Tailwind CSS**, and **Bootstrap**.  
+- ☁️ Currently exploring **Cloud Application Security**, **DevSecOps**, and **API Security** in AWS and GCP.  
+- 💼  **Frontend Developer** with 4+ years of experience building scalable, responsive web applications using **React**, **Jekyll**, **Tailwind CSS**, and **Bootstrap**.  
 - ⚙️ I love combining design and security — creating applications that are not only beautiful but also resilient and safe.  
 - 🌱 Aspiring to build projects in **Cloud Guard Automation**, **CI/CD Security**, and **Compliance-as-Code**.  
 - 🌐 GitHub: **[GitHub Portfolio](https://github.com/veiled-coder2)**  
@@ -15,7 +15,7 @@
 ### **Skills**  
 
 - 🚀 **Frontend Development**: React, Next.js, Tailwind CSS, HTML, CSS, JavaScript (ES6+).  
-- 🧩 **Cloud & Security**: Oracle Cloud (OCI), AWS, Cloud Guard, DevSecOps pipelines,  and Vulnerability Scanning (Greenbone).  
+- 🧩 **Cloud & Security**: AWS, Cloud Guard, DevSecOps pipelines,  and Vulnerability Scanning (Greenbone).  
 - 🔗 **API Security & Integration**: REST API protection, authentication (JWT, OAuth2)
 - 🖥️ **Programming & Scripting**: Python, Bash, Ruby, and C#.  
 - 💾 **Databases**: SQL, with practical experience securing data access layers.  
